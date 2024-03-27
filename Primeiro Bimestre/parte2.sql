@@ -1,4 +1,5 @@
-
+use e_comerce;
+  
 insert into clientes values (null, 'Caio', 'Rua Cadrigo 139', 'caio@gmail.com', '(11) 99234-4893', '1980-07-13');
 insert into clientes values (null, 'Roman', 'Rua Leichiv', 'goodra@gmail.com.br', '(11) 98252-4014', '1985-09-23');
 insert into clientes values (null, 'Nora', 'Rua Conan 189', 'moca.ind@gmail.com', '(11) 93644-0696', '1972-10-21');
